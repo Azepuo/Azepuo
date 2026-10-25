@@ -3,7 +3,7 @@
 **Software Engineering student (Master 2) · Full-Stack / Backend / DevOps**
 Ibn Zohr University, Morocco · Graduating 2027
  
-🔎 **Looking for a 6-month end-of-studies internship (PFE) starting February 2027** in Full-Stack, Backend or DevOps. Open to relocation and remote work.
+
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-meskaoui-236221286)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassinemeskoui81@gmail.com)
